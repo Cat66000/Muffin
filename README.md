@@ -1,3 +1,5 @@
+**Disclaimer : This repository has been moved** [**here**](https://github.com/organisation-de-l-ombre/muffin-db-wrapper)
+
 <h1>Muffin v1.3</h1>
 
 **The muffin connects to a MongoDB server and allows you to create pieces, which can be used almost like a map !**
